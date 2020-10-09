@@ -1,2 +1,2 @@
-FROM centos7
+FROM ubuntu:14.04
 
